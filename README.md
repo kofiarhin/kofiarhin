@@ -1,7 +1,7 @@
 # Hi, I'm Kofi 👋
 
 🚀 **Full-Stack Developer** | JavaScript · React · React Native · Node.js · MongoDB · PostgreSQL  
-📍 London, Uk · 🌐 [devkofi.com](https://devkofi.com)
+📍 London, UK · 🌐 [devkofi.com](https://devkofi.com)
 
 ---
 
@@ -14,17 +14,19 @@ I focus on **performance, scalability, and clean design** — taking projects fr
 
 ## 🔧 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)  
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=000)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)  
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff)  
-![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000)  
-![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff)
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000" />
+  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff" />
+</p>
 
 ---
 
