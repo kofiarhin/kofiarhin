@@ -34,6 +34,7 @@ I focus on **performance, scalability, and clean design** — taking projects fr
 
 - Portfolio: [devkofi.com](https://devkofi.com)
 - Twitter: [@kwofiarhin](https://twitter.com/kwofiArhin)
+- Instagram: [@devkofi](https://www.instagram.com/devkofi/)
 - Email: kofiarhin69@gmail.com
 
 ---
