@@ -1,7 +1,7 @@
 # Hi, I'm Kofi 👋
 
 🚀 **Full-Stack Developer** | JavaScript · React · React Native · Node.js · MongoDB · PostgreSQL  
-📍 Accra, Ghana · 🌐 [devkofi.com](https://devkofi.com)
+📍 London, Uk · 🌐 [devkofi.com](https://devkofi.com)
 
 ---
 
