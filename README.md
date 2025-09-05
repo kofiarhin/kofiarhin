@@ -32,7 +32,7 @@ I focus on **performance, scalability, and clean design** — taking projects fr
 
 - Portfolio: [devkofi.com](https://devkofi.com)
 - Twitter: [@devkofi](https://twitter.com/devkofi)
-- Email: hello@devkofi.com
+- Email: kofiarhin69@gmail.com
 
 ---
 
